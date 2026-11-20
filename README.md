@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <!-- Animated Neon Terminal Header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Theworld-exe;Full-Stack+Developer+%26+Software+Engineer;Building+Web%2C+Mobile+%26+AI+Systems" alt="Typing SVG" />
+</div>
 
-<!--
-**Theworld-exe/Theworld-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <!-- Main GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theworld-exe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theworld-exe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <!-- Contribution Streak Bar -->
+  <img src="https://streak-stats.demolab.com?user=Theworld-exe&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <!-- 3D Isometric Contribution City -->
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution City" />
+</div>
